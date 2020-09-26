@@ -22,7 +22,7 @@ or
 
 then
 
-`cd ios && pod install` and run your project 🔥 This step probably works.
+`cd ios && pod install` and run your project 🔥 This step probably works. (on iOS 14📱)
 
 
 #### Android
