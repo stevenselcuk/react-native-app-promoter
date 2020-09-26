@@ -21,7 +21,7 @@ For more information:
 
 or
 
-`yarn add react-native-app-promoter
+`yarn add react-native-app-promoter`
 
 then
 
