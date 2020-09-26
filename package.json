@@ -1,13 +1,14 @@
 
 {
   "name": "react-native-app-promoter",
-  "version": "1.0.4",
-  "description": "Promote your other app with native way",
+  "version": "1.0.7",
+  "description": "A React Native package for promoting and upselling your awesome app with using SKOverlay on React Native app. Works on iOS 14 (obviously)",
   "main": "index.js",
   "keywords": [
     "react-native",
     "app-store",
-    "review",
+    "store-kit",
+    "SKOverlay",
     "ios"
   ],
   "author": "Steven J. Selcuk",
