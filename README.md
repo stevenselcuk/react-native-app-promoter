@@ -1,13 +1,10 @@
 
-# react-native-app-promoter
+# react-native-app-promoter 
 
 ## Upsell and promote your "other app"
 
-Display a overlay you can use to recommend another app with using SKOverlay / StoreKit
-
-For more information:
-
-[SKOverlay Documentation](https://developer.apple.com/documentation/storekit/skoverlay)
+Display a overlay with using SKOverlay which you can recommend other apps to users and allow them to download the app immediately. 
+For more information 👉 [SKOverlay Documentation](https://developer.apple.com/documentation/storekit/skoverlay)
 
 
 <div align="center">
